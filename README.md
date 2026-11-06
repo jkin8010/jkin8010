@@ -1,6 +1,6 @@
 # Jakin
 
-**Jakin — independent builder. I ship AI image tools, and I measure the ones that claim to work.**
+**Independent builder. I ship AI image tools, and I measure the ones that claim to work.**
 
 Founder of [MoPNG](https://mopng.cn) — an AI photo-editing SaaS running in production.
 
