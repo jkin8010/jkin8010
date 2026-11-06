@@ -17,7 +17,9 @@ Founder of [MoPNG](https://mopng.cn) at [QiseTech](https://qise.tech) — an AI 
 
 ### Working on
 
-A reproducible index of **AI design agents and skills**: same briefs, same harness, published raw outputs. Measurements instead of opinions — no pay-to-play, no sponsored rankings.
+A reproducible index of **design skills and DESIGN.md corpora** → **[design-agent-index](https://github.com/jkin8010/design-agent-index)**
+
+Today it measures maintenance, packaging and adoption (37 skills, 11 corpora, weekly). Next: the same briefs through every skill, renders published — measurements instead of opinions, no pay-to-play.
 
 ### How I work
 
